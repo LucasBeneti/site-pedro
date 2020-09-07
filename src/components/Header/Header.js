@@ -1,5 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { createBrowserHistory } from "history";
 
 import Publications from "../../pages/publications";
 import Research from "../../pages/research";
@@ -9,23 +10,24 @@ import Home from "../../pages/home";
 import "./header.css";
 
 export default function Header() {
+  const history = createBrowserHistory();
   return (
-    <Router>
+    <Router history={history}>
       <ul>
         <li>
           <Link to="/">Home</Link>
         </li>
 
         <li>
-          <Link to="/publications">Publicações</Link>
+          <Link to="/publications">Publications</Link>
         </li>
 
         <li>
-          <Link to="/research">Pesquisa</Link>
+          <Link to="/research">Reseacrh</Link>
         </li>
 
         <li>
-          <Link to="/contact">Contato</Link>
+          <Link to="/contact">Contact</Link>
         </li>
       </ul>
 
