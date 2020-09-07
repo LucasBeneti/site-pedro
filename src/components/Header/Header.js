@@ -1,10 +1,12 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
-import Publications from "../pages/publications";
-import Research from "../pages/research";
-import Contact from "../pages/contact";
-import Home from "../pages/home";
+import Publications from "../../pages/publications";
+import Research from "../../pages/research";
+import Contact from "../../pages/contact";
+import Home from "../../pages/home";
+
+import "./header.css";
 
 export default function Header() {
   return (
