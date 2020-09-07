@@ -7,6 +7,10 @@ function App() {
   return (
     <div className="App">
       <Header />
+
+      {/* <header></header>
+      <section></section>
+      <footer></footer> */}
     </div>
   );
 }
