@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/site-pedro/static/css/main.b954d8f4.chunk.css",
-    "main.js": "/site-pedro/static/js/main.7657c0fa.chunk.js",
-    "main.js.map": "/site-pedro/static/js/main.7657c0fa.chunk.js.map",
+    "main.js": "/site-pedro/static/js/main.e2762be1.chunk.js",
+    "main.js.map": "/site-pedro/static/js/main.e2762be1.chunk.js.map",
     "runtime-main.js": "/site-pedro/static/js/runtime-main.3cc6509e.js",
     "runtime-main.js.map": "/site-pedro/static/js/runtime-main.3cc6509e.js.map",
-    "static/js/2.08fb041f.chunk.js": "/site-pedro/static/js/2.08fb041f.chunk.js",
-    "static/js/2.08fb041f.chunk.js.map": "/site-pedro/static/js/2.08fb041f.chunk.js.map",
+    "static/js/2.8e42f2b3.chunk.js": "/site-pedro/static/js/2.8e42f2b3.chunk.js",
+    "static/js/2.8e42f2b3.chunk.js.map": "/site-pedro/static/js/2.8e42f2b3.chunk.js.map",
     "index.html": "/site-pedro/index.html",
-    "precache-manifest.4ab58c14f08bac2f089b9d5a08e8687c.js": "/site-pedro/precache-manifest.4ab58c14f08bac2f089b9d5a08e8687c.js",
+    "precache-manifest.89e6b5273b690109604bd7fd9b47be85.js": "/site-pedro/precache-manifest.89e6b5273b690109604bd7fd9b47be85.js",
     "service-worker.js": "/site-pedro/service-worker.js",
     "static/css/main.b954d8f4.chunk.css.map": "/site-pedro/static/css/main.b954d8f4.chunk.css.map",
-    "static/js/2.08fb041f.chunk.js.LICENSE.txt": "/site-pedro/static/js/2.08fb041f.chunk.js.LICENSE.txt"
+    "static/js/2.8e42f2b3.chunk.js.LICENSE.txt": "/site-pedro/static/js/2.8e42f2b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3cc6509e.js",
-    "static/js/2.08fb041f.chunk.js",
+    "static/js/2.8e42f2b3.chunk.js",
     "static/css/main.b954d8f4.chunk.css",
-    "static/js/main.7657c0fa.chunk.js"
+    "static/js/main.e2762be1.chunk.js"
   ]
 }
