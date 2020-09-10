@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/site-pedro/static/css/main.b954d8f4.chunk.css",
-    "main.js": "/site-pedro/static/js/main.70d880d6.chunk.js",
-    "main.js.map": "/site-pedro/static/js/main.70d880d6.chunk.js.map",
+    "main.js": "/site-pedro/static/js/main.d2bc16e7.chunk.js",
+    "main.js.map": "/site-pedro/static/js/main.d2bc16e7.chunk.js.map",
     "runtime-main.js": "/site-pedro/static/js/runtime-main.3cc6509e.js",
     "runtime-main.js.map": "/site-pedro/static/js/runtime-main.3cc6509e.js.map",
     "static/js/2.8e42f2b3.chunk.js": "/site-pedro/static/js/2.8e42f2b3.chunk.js",
     "static/js/2.8e42f2b3.chunk.js.map": "/site-pedro/static/js/2.8e42f2b3.chunk.js.map",
     "index.html": "/site-pedro/index.html",
-    "precache-manifest.60ccc579d74970115ebf0078c0c6efdb.js": "/site-pedro/precache-manifest.60ccc579d74970115ebf0078c0c6efdb.js",
+    "precache-manifest.68a04a0ddf70d3c1d27696fdca5f502f.js": "/site-pedro/precache-manifest.68a04a0ddf70d3c1d27696fdca5f502f.js",
     "service-worker.js": "/site-pedro/service-worker.js",
     "static/css/main.b954d8f4.chunk.css.map": "/site-pedro/static/css/main.b954d8f4.chunk.css.map",
     "static/js/2.8e42f2b3.chunk.js.LICENSE.txt": "/site-pedro/static/js/2.8e42f2b3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3cc6509e.js",
     "static/js/2.8e42f2b3.chunk.js",
     "static/css/main.b954d8f4.chunk.css",
-    "static/js/main.70d880d6.chunk.js"
+    "static/js/main.d2bc16e7.chunk.js"
   ]
 }
