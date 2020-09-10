@@ -12,7 +12,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://lucasbeneti.github.io/site-pedro/",
+  "homepage": "https://lucasbeneti.github.io/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
