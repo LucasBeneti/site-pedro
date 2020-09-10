@@ -12,42 +12,43 @@ import "./header.css";
 export default function Header() {
   const history = createBrowserHistory();
   return (
-    <Router history={history}>
-      <ul>
-        <li>
-          <Link to="/">Home</Link>
-        </li>
+    <h1>Aqui é o header</h1>
+    // <Router history={history}>
+    //   <ul>
+    //     <li>
+    //       <Link to="/">Home</Link>
+    //     </li>
 
-        <li>
-          <Link to="/publications">Publications</Link>
-        </li>
+    //     <li>
+    //       <Link to="/publications">Publications</Link>
+    //     </li>
 
-        <li>
-          <Link to="/research">Reseacrh</Link>
-        </li>
+    //     <li>
+    //       <Link to="/research">Reseacrh</Link>
+    //     </li>
 
-        <li>
-          <Link to="/contact">Contact</Link>
-        </li>
-      </ul>
+    //     <li>
+    //       <Link to="/contact">Contact</Link>
+    //     </li>
+    //   </ul>
 
-      <Switch>
-        <Route exact path="/">
-          <Home />
-        </Route>
+    //   <Switch>
+    //     <Route exact path="/">
+    //       <Home />
+    //     </Route>
 
-        <Route exact path="/publications">
-          <Publications />
-        </Route>
+    //     <Route exact path="/publications">
+    //       <Publications />
+    //     </Route>
 
-        <Route exact path="/research">
-          <Research />
-        </Route>
+    //     <Route exact path="/research">
+    //       <Research />
+    //     </Route>
 
-        <Route exact path="/contact">
-          <Contact />
-        </Route>
-      </Switch>
-    </Router>
+    //     <Route exact path="/contact">
+    //       <Contact />
+    //     </Route>
+    //   </Switch>
+    // </Router>
   );
 }
